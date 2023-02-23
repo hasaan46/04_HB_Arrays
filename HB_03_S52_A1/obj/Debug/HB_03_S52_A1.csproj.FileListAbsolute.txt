@@ -1,0 +1,11 @@
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\HB_03_S52_A1\bin\Debug\HB_03_S52_A1.exe.config
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\HB_03_S52_A1\bin\Debug\HB_03_S52_A1.exe
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\HB_03_S52_A1\bin\Debug\HB_03_S52_A1.pdb
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\HB_03_S52_A1\obj\Debug\HB_03_S52_A1.csproj.AssemblyReference.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\HB_03_S52_A1\obj\Debug\HB_03_S52_A1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\HB_03_S52_A1\obj\Debug\HB_03_S52_A1.Properties.Resources.resources
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\HB_03_S52_A1\obj\Debug\HB_03_S52_A1.csproj.GenerateResource.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\HB_03_S52_A1\obj\Debug\HB_03_S52_A1.csproj.CoreCompileInputs.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\HB_03_S52_A1\obj\Debug\HB_03_S52_A1.exe
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\HB_03_S52_A1\obj\Debug\HB_03_S52_A1.pdb
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\HB_03_S52_A1\obj\Debug\HB_03_S52_A1.Form1.resources

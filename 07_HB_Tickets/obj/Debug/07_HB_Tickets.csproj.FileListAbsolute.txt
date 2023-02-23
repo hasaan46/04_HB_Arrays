@@ -1,0 +1,21 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\07_HB_Tickets\bin\Debug\07_HB_Tickets.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\07_HB_Tickets\bin\Debug\07_HB_Tickets.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\07_HB_Tickets\bin\Debug\07_HB_Tickets.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\07_HB_Tickets\obj\Debug\07_HB_Tickets.csproj.AssemblyReference.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\07_HB_Tickets\obj\Debug\_07_HB_Tickets.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\07_HB_Tickets\obj\Debug\_07_HB_Tickets.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\07_HB_Tickets\obj\Debug\07_HB_Tickets.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\07_HB_Tickets\obj\Debug\07_HB_Tickets.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\07_HB_Tickets\obj\Debug\07_HB_Tickets.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\07_HB_Tickets\obj\Debug\07_HB_Tickets.pdb
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\07_HB_Tickets\bin\Debug\07_HB_Tickets.exe.config
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\07_HB_Tickets\bin\Debug\07_HB_Tickets.exe
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\07_HB_Tickets\bin\Debug\07_HB_Tickets.pdb
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\07_HB_Tickets\obj\Debug\07_HB_Tickets.csproj.AssemblyReference.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\07_HB_Tickets\obj\Debug\07_HB_Tickets.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\07_HB_Tickets\obj\Debug\_07_HB_Tickets.Form1.resources
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\07_HB_Tickets\obj\Debug\_07_HB_Tickets.Properties.Resources.resources
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\07_HB_Tickets\obj\Debug\07_HB_Tickets.csproj.GenerateResource.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\07_HB_Tickets\obj\Debug\07_HB_Tickets.csproj.CoreCompileInputs.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\07_HB_Tickets\obj\Debug\07_HB_Tickets.exe
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\07_HB_Tickets\obj\Debug\07_HB_Tickets.pdb

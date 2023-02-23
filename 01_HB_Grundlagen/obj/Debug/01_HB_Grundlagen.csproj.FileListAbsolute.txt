@@ -1,0 +1,21 @@
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\01_HB_Grundlagen\bin\Debug\01_HB_Grundlagen.exe.config
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\01_HB_Grundlagen\bin\Debug\01_HB_Grundlagen.exe
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\01_HB_Grundlagen\bin\Debug\01_HB_Grundlagen.pdb
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\01_HB_Grundlagen\obj\Debug\01_HB_Grundlagen.csproj.AssemblyReference.cache
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\01_HB_Grundlagen\obj\Debug\_01_HB_Grundlagen.Form1.resources
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\01_HB_Grundlagen\obj\Debug\_01_HB_Grundlagen.Properties.Resources.resources
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\01_HB_Grundlagen\obj\Debug\01_HB_Grundlagen.csproj.GenerateResource.cache
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\01_HB_Grundlagen\obj\Debug\01_HB_Grundlagen.csproj.CoreCompileInputs.cache
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\01_HB_Grundlagen\obj\Debug\01_HB_Grundlagen.exe
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\01_HB_Grundlagen\obj\Debug\01_HB_Grundlagen.pdb
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\01_HB_Grundlagen\bin\Debug\01_HB_Grundlagen.exe.config
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\01_HB_Grundlagen\bin\Debug\01_HB_Grundlagen.exe
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\01_HB_Grundlagen\bin\Debug\01_HB_Grundlagen.pdb
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\01_HB_Grundlagen\obj\Debug\01_HB_Grundlagen.csproj.AssemblyReference.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\01_HB_Grundlagen\obj\Debug\01_HB_Grundlagen.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\01_HB_Grundlagen\obj\Debug\_01_HB_Grundlagen.Form1.resources
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\01_HB_Grundlagen\obj\Debug\_01_HB_Grundlagen.Properties.Resources.resources
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\01_HB_Grundlagen\obj\Debug\01_HB_Grundlagen.csproj.GenerateResource.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\01_HB_Grundlagen\obj\Debug\01_HB_Grundlagen.csproj.CoreCompileInputs.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\01_HB_Grundlagen\obj\Debug\01_HB_Grundlagen.exe
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\01_HB_Grundlagen\obj\Debug\01_HB_Grundlagen.pdb

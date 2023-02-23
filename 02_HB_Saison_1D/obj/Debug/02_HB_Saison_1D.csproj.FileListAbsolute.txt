@@ -1,0 +1,20 @@
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\02_HB_Saison_1D\bin\Debug\02_HB_Saison_1D.exe.config
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\02_HB_Saison_1D\bin\Debug\02_HB_Saison_1D.exe
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\02_HB_Saison_1D\bin\Debug\02_HB_Saison_1D.pdb
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\02_HB_Saison_1D\obj\Debug\_02_HB_Saison_1D.Form1.resources
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\02_HB_Saison_1D\obj\Debug\_02_HB_Saison_1D.Properties.Resources.resources
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\02_HB_Saison_1D\obj\Debug\02_HB_Saison_1D.csproj.GenerateResource.cache
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\02_HB_Saison_1D\obj\Debug\02_HB_Saison_1D.csproj.CoreCompileInputs.cache
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\02_HB_Saison_1D\obj\Debug\02_HB_Saison_1D.exe
+H:\Documents\Visual Studio 2019\Projekte\04_HB_Arrays\02_HB_Saison_1D\obj\Debug\02_HB_Saison_1D.pdb
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\02_HB_Saison_1D\bin\Debug\02_HB_Saison_1D.exe.config
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\02_HB_Saison_1D\bin\Debug\02_HB_Saison_1D.exe
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\02_HB_Saison_1D\bin\Debug\02_HB_Saison_1D.pdb
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\02_HB_Saison_1D\obj\Debug\02_HB_Saison_1D.csproj.AssemblyReference.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\02_HB_Saison_1D\obj\Debug\02_HB_Saison_1D.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\02_HB_Saison_1D\obj\Debug\_02_HB_Saison_1D.Form1.resources
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\02_HB_Saison_1D\obj\Debug\_02_HB_Saison_1D.Properties.Resources.resources
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\02_HB_Saison_1D\obj\Debug\02_HB_Saison_1D.csproj.GenerateResource.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\02_HB_Saison_1D\obj\Debug\02_HB_Saison_1D.csproj.CoreCompileInputs.cache
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\02_HB_Saison_1D\obj\Debug\02_HB_Saison_1D.exe
+C:\Users\hasan solak\OneDrive\Dokumente\RiderProjects\04_HB_Arrays\02_HB_Saison_1D\obj\Debug\02_HB_Saison_1D.pdb

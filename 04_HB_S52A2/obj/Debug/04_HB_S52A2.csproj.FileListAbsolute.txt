@@ -1,0 +1,10 @@
+C:\Users\hasan solak\source\repos\04_HB_S52A2\04_HB_S52A2\bin\Debug\04_HB_S52A2.exe.config
+C:\Users\hasan solak\source\repos\04_HB_S52A2\04_HB_S52A2\bin\Debug\04_HB_S52A2.exe
+C:\Users\hasan solak\source\repos\04_HB_S52A2\04_HB_S52A2\bin\Debug\04_HB_S52A2.pdb
+C:\Users\hasan solak\source\repos\04_HB_S52A2\04_HB_S52A2\obj\Debug\04_HB_S52A2.csproj.AssemblyReference.cache
+C:\Users\hasan solak\source\repos\04_HB_S52A2\04_HB_S52A2\obj\Debug\04_HB_S52A2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan solak\source\repos\04_HB_S52A2\04_HB_S52A2\obj\Debug\_04_HB_S52A2.Properties.Resources.resources
+C:\Users\hasan solak\source\repos\04_HB_S52A2\04_HB_S52A2\obj\Debug\04_HB_S52A2.csproj.GenerateResource.cache
+C:\Users\hasan solak\source\repos\04_HB_S52A2\04_HB_S52A2\obj\Debug\04_HB_S52A2.csproj.CoreCompileInputs.cache
+C:\Users\hasan solak\source\repos\04_HB_S52A2\04_HB_S52A2\obj\Debug\04_HB_S52A2.exe
+C:\Users\hasan solak\source\repos\04_HB_S52A2\04_HB_S52A2\obj\Debug\04_HB_S52A2.pdb
